@@ -1,3 +1,4 @@
+// full calculation of geometry
 
 // card 1-- triangle calculation
 
